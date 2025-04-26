@@ -11,3 +11,8 @@ Gemfile.lock
 # Ingore files created by npm
 node_modules
 package-lock.json
+
+# Ignore macOS system files
+.DS_Store
+_data/.DS_Store
+_pages/.DS_Store
