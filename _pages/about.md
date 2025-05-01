@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student at a special class integerated B.S. M.S. and PhD from [School of  Information Management](https://sim.whu.edu.cn), [Wuhan University](https://www.whu.edu.cn/). I also major in Computer Science as my second major from [School of Computer Science](https://cs.whu.edu.cn),[Wuhan University](https://www.whu.edu.cn/).My research interest includes natural language processing and multi-model large language model for scientific figure. 
+I'm an undergraduate student at [Wuhan University](https://www.whu.edu.cn/) ,enrolled in [School of  Information Management](https://sim.whu.edu.cn)'s integrated B.S.–M.S.–Ph.D. program in Archival Science.Additionally, I am pursuing a second major in Computer Science through the [School of Computer Science](https://cs.whu.edu.cn). My research interests lie in Document Analysis and Recognition, with a particular focus on leveraging Natural Language Processing (NLP) and Multimodal Large Language Models (MLLMs) to enhance document understanding and information extraction.
 
 A data-driven personal website
 ======
