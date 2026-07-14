@@ -67,6 +67,9 @@ latest_posts:
   I received my bachelor’s degree from
   <a href="https://en.whu.edu.cn/"
      style="color: #500000; font-weight: 500;">
+    <img src="/assets/img/WHU_icon.png"
+         alt="Wuhan University"
+         style="height: 1.15em; width: auto; margin-right: 0.2em; vertical-align: -0.18em;">
     Wuhan University
   </a>.
 </p>
