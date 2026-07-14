@@ -51,11 +51,7 @@ latest_posts:
 </p>
 
 <p>
-  Before joining
-  <a href="https://www.tamu.edu/" style="color: #500000; font-weight: 500;">
-    Texas A&amp;M University
-  </a>,
-  I worked as a research assistant at
+  Before joining TAMU, I worked as a research assistant at
   <a href="https://chaofengc.github.io/group.html"
      style="color: #500000; font-weight: 500;">
     <img src="/assets/img/MindVisionLab_icon.png"
