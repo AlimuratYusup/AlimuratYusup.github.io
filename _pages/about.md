@@ -41,6 +41,9 @@ latest_posts:
   at
   <a href="https://www.tamu.edu/"
      style="color: #500000; font-weight: 500;">
+    <img src="/assets/img/TAMU_icon_v3.png"
+         alt="Texas A&amp;M University"
+         style="height: 1.15em; width: auto; margin-right: 0.2em; vertical-align: -0.18em;">
     Texas A&amp;M University
   </a>,
   advised by
