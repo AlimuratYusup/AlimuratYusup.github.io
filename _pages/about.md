@@ -79,16 +79,12 @@ latest_posts:
 
 <div id="visitor-map-section"
      style="
-       max-width: 520px;
+       max-width: 347px;
        width: 100%;
        margin: 2.5rem auto 1.5rem;
        text-align: center;
        overflow: hidden;
      ">
-  <h2 style="font-size: 1.4rem; margin-bottom: 1rem;">
-    Visitor Map
-  </h2>
-
   <script
     type="text/javascript"
     id="mapmyvisitors"
@@ -112,6 +108,8 @@ latest_posts:
   #visitor-map-section canvas,
   #visitor-map-section svg,
   #visitor-map-section > div {
+    width: 100% !important;
     max-width: 100% !important;
+    height: auto !important;
   }
 </style>
