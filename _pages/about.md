@@ -76,3 +76,13 @@ latest_posts:
     Wuhan University
   </a>.
 </p>
+
+<div style="margin-top: 2rem; text-align: center;">
+  <h2>Visitor Map</h2>
+
+  <script
+    type="text/javascript"
+    id="mapmyvisitors"
+    src="https://mapmyvisitors.com/map.js?d=fXw9Vlslih10VunNBDNhv7my0H_HH5a6kCFwKiB-Jas&cl=ffffff&w=a">
+  </script>
+</div>
