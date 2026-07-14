@@ -77,8 +77,17 @@ latest_posts:
   </a>.
 </p>
 
-<div style="margin-top: 2rem; text-align: center;">
-  <h2>Visitor Map</h2>
+<div id="visitor-map-section"
+     style="
+       max-width: 520px;
+       width: 100%;
+       margin: 2.5rem auto 1.5rem;
+       text-align: center;
+       overflow: hidden;
+     ">
+  <h2 style="font-size: 1.4rem; margin-bottom: 1rem;">
+    Visitor Map
+  </h2>
 
   <script
     type="text/javascript"
@@ -86,3 +95,23 @@ latest_posts:
     src="https://mapmyvisitors.com/map.js?d=fXw9Vlslih10VunNBDNhv7my0H_HH5a6kCFwKiB-Jas&cl=ffffff&w=a">
   </script>
 </div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const visitorMap = document.getElementById("visitor-map-section");
+    const article = document.querySelector(".post article");
+
+    if (visitorMap && article) {
+      article.appendChild(visitorMap);
+    }
+  });
+</script>
+
+<style>
+  #visitor-map-section iframe,
+  #visitor-map-section canvas,
+  #visitor-map-section svg,
+  #visitor-map-section > div {
+    max-width: 100% !important;
+  }
+</style>
