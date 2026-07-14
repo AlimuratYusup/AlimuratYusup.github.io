@@ -26,9 +26,51 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+<style>
+  .post-title .font-weight-bold {
+    font-weight: inherit !important;
+  }
+</style>
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<p>
+  I am a first-year master’s student in the Master of Science in Computer Science program in the
+  <a href="https://engineering.tamu.edu/cse/index.html"
+     style="color: #500000; font-weight: 500;">
+    Department of Computer Science and Engineering
+  </a>
+  at
+  <a href="https://www.tamu.edu/"
+     style="color: #500000; font-weight: 500;">
+    Texas A&amp;M University
+  </a>,
+  advised by
+  <a href="https://engineering.tamu.edu/cse/profiles/tu-zhengzhong.html"
+     style="color: #500000; font-weight: 500;">
+    Prof. Zhengzhong Tu
+  </a>.
+</p>
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<p>
+  Before joining
+  <a href="https://www.tamu.edu/" style="color: #500000; font-weight: 500;">
+    Texas A&amp;M University
+  </a>,
+  I worked as a research assistant at
+  <a href="https://chaofengc.github.io/group.html"
+     style="color: #500000; font-weight: 500;">
+    <img src="/assets/img/MindVisionLab_icon.png"
+         alt="MindVision Lab"
+         style="height: 1.15em; width: auto; margin-right: 0.2em; vertical-align: -0.18em;">
+    MindVision Lab
+  </a>
+  under the supervision of
+  <a href="https://chaofengc.github.io/index.html"
+     style="color: #500000; font-weight: 500;">
+    Prof. Chaofeng Chen
+  </a>.
+  I received my bachelor’s degree from
+  <a href="https://en.whu.edu.cn/"
+     style="color: #500000; font-weight: 500;">
+    Wuhan University
+  </a>.
+</p>
