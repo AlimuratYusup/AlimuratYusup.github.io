@@ -67,6 +67,7 @@ latest_posts:
      style="color: #500000; font-weight: 500;">
     Prof. Chaofeng Chen
   </a>.
+  I also worked with Prof. Fengchang Yu.
   I received my bachelor’s degree from
   <a href="https://en.whu.edu.cn/"
      style="color: #500000; font-weight: 500;">
