@@ -48,7 +48,7 @@ education:
   - institution: Wuhan University
     url: https://en.whu.edu.cn/
     logo: WHU_icon.png
-    role: B.S. in Computer Science (Double Degree)
+    role: B.S. in Computer Science
     detail: School of Computer Science
     period: 2023 – 2026
   - institution: Wuhan University
