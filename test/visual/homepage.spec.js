@@ -44,7 +44,7 @@ test("portrait, real content, and footer fit desktop and mobile", async ({ page 
   await expect(portrait).toBeVisible();
   await expect.poll(() => portrait.evaluate((img) => img.complete && img.naturalWidth > 0)).toBe(true);
   await expect(page.locator("#experience .timeline-entry")).toHaveCount(3);
-  await expect(page.locator("#education .timeline-entry")).toHaveCount(2);
+  await expect(page.locator("#education .timeline-entry")).toHaveCount(3);
   await expect(page.locator("#news, .latest-posts")).toHaveCount(0);
   await expect(page.locator("#publications ol.bibliography > li")).toHaveCount(1);
   await expect(page.locator("#publications")).toContainText("Medical QA dialogue datasets");

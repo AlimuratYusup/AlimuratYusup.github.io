@@ -48,6 +48,12 @@ education:
   - institution: Wuhan University
     url: https://en.whu.edu.cn/
     logo: WHU_icon.png
+    role: B.S. in Computer Science (Double Degree)
+    detail: School of Computer Science
+    period: 2023 – 2026
+  - institution: Wuhan University
+    url: https://en.whu.edu.cn/
+    logo: WHU_icon.png
     role: B.S. in Archival Science
     details:
       - Admitted to the School of Information Management's <strong>honors combined B.S./M.S./Ph.D. program</strong> in Computational Cultural Heritage, <strong>a selective track for top undergraduates</strong>.
